@@ -1,0 +1,42 @@
+{
+   "Vitamin A, IU": {
+      "19-70 yas": "900 ng",
+      ">71 yas": "900 ng"
+   },
+   "Thiamin": {
+      "19-70 yas": "1.2 mg",
+      ">71 yas": "1.2 mg"
+   },
+   "Riboflavin": {
+      "19-70 yas": "1.3 mg",
+      ">71 yas": "1.3 mg"
+   },
+   "Niacin": {
+      "19-70 yas": "16 mg",
+      ">71 yas": "16 mg"
+   },
+   "Vitamin B6": {
+      "19-70 yas": "1.7 mg",
+      ">71 yas": "1.7 mg"
+   },
+   "Vitamin B-12": {
+      "19-70 yas": "2.4 ng",
+      ">71 yas": "2.4 ng"
+   },
+   "Vitamin C, total ascorbic acid": {
+      "19-70 yas": "90 mg",
+      ">71 yas": "90 mg"
+   },
+   "Vitamin D": {
+      "19-70 yas": "600 IU",
+      ">71 yas": "800 IU"
+   },
+   "Vitamin E": {
+      "19-70 yas": "15 mg",
+      ">71 yas": "15 mg"
+   },
+   "Vitamin K": {
+      "19-70 yas": "120 ng",
+      ">71 yas": "120 ng"
+   }
+}

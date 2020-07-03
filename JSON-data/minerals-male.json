@@ -1,0 +1,58 @@
+{
+   "Calcium, Ca": {
+      "19-50 yas": "700 mg",
+      ">50 yas": "1.000 mg"
+   },
+   "Phosporus, P": {
+      "19-50 yas": "700 mg",
+      ">50 yas": "700 mg"
+   },
+   "Potassium, K": {
+      "19-50 yas": "2000 mg",
+      ">50 yas": "2000 mg"
+   },
+   "Sodium, Na": {
+      "19-50 yas": "2.400 mg",
+      ">50 yas": "2.400 mg"
+   },
+   "Chlorine, Cl": {
+      "19-50 yas": "3.400 mg",
+      ">50 yas": "3.400 mg"
+   },
+   "Magnesium, Mg": {
+      "19-50 yas": "400 mg",
+      ">50 yas": "420 mg"
+   },
+   "Iron, Fe": {
+      "19-50 yas": "8 mg",
+      ">50 yas": "8 mg"
+   },
+   "Zinc, Zn": {
+      "19-50 yas": "15 mg",
+      ">50 yas": "15 mg"
+   },
+   "Copper, Cu": {
+      "19-50 yas": "2.5 mg",
+      ">50 yas": "2.5 mg"
+   },
+   "Manganez": {
+      "19-50 yas": " 2.3 mg",
+      ">50 yas": "2.3 mg"
+   },
+   "Iodine, I": {
+      "19-50 yas": "150 ng",
+      ">50 yas": "150 ng"
+   },
+   "Selenium, Se": {
+      "19-50 yas": "70 ng",
+      ">50 yas": "70 ng"
+   },
+   "Molybdenum, Mo": {
+      "19-50 yas": "75 ng",
+      ">50 yas": "75 ng"
+   },
+   "Chromium, Cr": {
+      "19-50 yas": "120 ng",
+      ">50 yas": "120 ng"
+   }
+}

@@ -1,0 +1,50 @@
+{
+   "Vitamin A, IU": {
+      "19-30 yas": "700 ng",
+      "31-50 yas": "700 ng",
+      "51-70 yas": "700 ng",
+      ">70 yas": "700 ng",
+      "Hamilelik Donemi": "750-770 ng",
+      "Emzirme Donemi": "1200-1300 ng"
+   },
+   "Vitamin B-12": {
+      "19-30 yas": "2.4 ng",
+      "31-50 yas": "2.4 ng",
+      "51-70 yas": "2.4 ng",
+      ">70 yas": "2.4 ng",
+      "Hamilelik Donemi": "2.6 ng",
+      "Emzirme Donemi": "2.8 ng"
+   },
+   "Vitamin E": {
+      "19-30 yas": "15 mg",
+      "31-50 yas": "15 mg",
+      "51-70 yas": "15 mg",
+      ">70 yas": "15 mg",
+      "Hamilelik Donemi": "15 mg",
+      "Emzirme Donemi": "15 mg"
+   },
+   "Vitamin C, total ascorbic acid": {
+      "19-30 yas": "75 mg",
+      "31-50 yas": "75 mg",
+      "51-70 yas": "60 mg",
+      ">70 yas": "75 mg",
+      "Hamilelik Donemi": "85 mg",
+      "Emzirme Donemi": "115-120 mg"
+   },
+   "Vitamin D": {
+      "19-30 yas": "15 ng",
+      "31-50 yas": "15 ng",
+      "51-70 yas": "15 ng",
+      ">70 yas": "20 ng",
+      "Hamilelik Donemi": "15 ng",
+      "Emzirme Donemi": "19 ng"
+   },
+   "Vitamin K": {
+      "19-30 yas": "90 ng",
+      "31-50 yas": "90 ng",
+      "51-70 yas": "90 ng",
+      ">70 yas": "90 ng",
+      "Hamilelik Donemi": "75-90 ng",
+      "Emzirme Donemi": "75-90 ng"
+   }
+}

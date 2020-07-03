@@ -1,0 +1,58 @@
+{
+   "Calcium, Ca": {
+      "0-8 yas": "800 mg",
+      "9-18 yas": "1300 mg"
+   },
+   "Phosporus, P": {
+      "0-8 yas": "800 mg",
+      "9-18 yas": "1200 mg"
+   },
+   "Potassium, K": {
+      "0-8 yas": "3.000-3800 mg ",
+      "9-18 yas": "4.500 mg"
+   },
+   "Sodium, Na": {
+      "0-8 yas": "1.500 mg",
+      "9-18 yas": "1.500-2.400 mg"
+   },
+   "Chlorine, Cl": {
+      "0-8 yas": " 80-120 mg",
+      "9-18 yas": "170 mg "
+   },
+   "Magnesium, Mg": {
+      "0-8 yas": "280-350 mg",
+      "9-18 yas": "280-350 mg"
+   },
+   "Iron, Fe": {
+      "0-8 yas": "11 mg",
+      "9-18 yas": "12 mg"
+   },
+   "Zinc, Zn": {
+      "0-8 yas": "7 mg",
+      "9-18 yas": "11 mg"
+   },
+   "Copper, Cu": {
+      "0-8 yas": "1-2 mg",
+      "9-18 yas": "1-2 mg"
+   },
+   "Manganez": {
+      "0-8 yas": "1.2 - 1.5 mg",
+      "9-18 yas": "1.6 � 2.2 mg"
+   },
+   "Iodine, I": {
+      "0-8 yas": "90-120 ng",
+      "9-18 yas": "90-120 ng"
+   },
+   "Selenium, Se": {
+      "0-8 yas": "20 ng",
+      "9-18 yas": "30-50 ng"
+   },
+   "Molybdenum, Mo": {
+      "0-8 yas": "30 ng",
+      "9-18 yas": "50 ng"
+   },
+   "Chromium, Cr": {
+      "0-8 yas": "50-100 ng",
+      "9-18 yas": "50-100 ng"
+   }
+}

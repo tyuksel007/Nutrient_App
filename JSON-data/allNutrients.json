@@ -1,0 +1,316 @@
+{
+    
+    "MineralsChildren":{
+        "Calcium, Ca": {
+        "0-8": "800 mg",
+        "9-18": "1300 mg"
+        },
+        "Phosporus, P": {
+        "0-8": "800 mg",
+        "9-18": "1200 mg"
+        },
+        "Potassium, K": {
+        "0-8": "3000-3800 mg ",
+        "9-18": "4500 mg"
+        },
+        "Sodium, Na": {
+        "0-8": "1500 mg",
+        "9-18": "1500-2400 mg"
+        },
+        "Chlorine, Cl": {
+        "0-8": " 80-120 mg",
+        "9-18": "170 mg "
+        },
+        "Magnesium, Mg": {
+        "0-8": "280-350 mg",
+        "9-18": "280-350 mg"
+        },
+        "Iron, Fe": {
+        "0-8": "11 mg",
+        "9-18": "12 mg"
+        },
+        "Zinc, Zn": {
+        "0-8": "7 mg",
+        "9-18": "11 mg"
+        },
+        "Copper, Cu": {
+        "0-8": "1-2 mg",
+        "9-18": "1-2 mg"
+        },
+        "Manganez": {
+        "0-8": "1.2 - 1.5 mg",
+        "9-18": "1.6 - 2.2 mg"
+        },
+        "Iodine, I": {
+        "0-8": "90-120 mcg",
+        "9-18": "90-120 mcg"
+        },
+        "Selenium, Se": {
+        "0-8": "20 ng",
+        "9-18": "30-50 mcg"
+        },
+        "Molybdenum, Mo": {
+        "0-8": "30 mcg",
+        "9-18": "50 mcg"
+        },
+        "Chromium, Cr": {
+        "0-8": "50-100 mcg",
+        "9-18": "50-100 mcg"
+        }
+    }
+    ,"MineralsFemale":{
+            "Calcium, Ca": {
+               "19-50": "1000 mg",
+               ">50": "1200 mg"
+            },
+            "Phosporus, P": {
+               "19-50": "700 mg",
+               ">50": "700 mg"
+            },
+            "Potassium, K": {
+               "19-50": "3500 mg",
+               ">50": "3500 mg"
+            },
+            "Sodium, Na": {
+               "19-50": "2400 mg",
+               ">50": "2400 mg"
+            },
+            "Chlorine, Cl": {
+               "19-50": "3400 mg",
+               ">50": "3400 mg"
+            },
+            "Magnesium, Mg": {
+               "19-50": "320 - 400 mg",
+               ">50": "320 - 400 mg"
+            },
+            "Iron, Fe": {
+               "19-50": "18 mg",
+               ">50": "8 mg"
+            },
+            "Zinc, Zn": {
+               "19-50": "8 mg",
+               ">50": "8 mg"
+            },
+            "Copper, Cu": {
+               "19-50": "2 mg",
+               ">50": "2 mg"
+            },
+            "Manganez": {
+               "19-50": "2 mg",
+               ">50": "2 mg"
+            },
+            "Iodine, I": {
+               "19-50": "150 mcg",
+               ">50": "150 mcg"
+            },
+            "Selenium, Se": {
+               "19-50": "70 mcg",
+               ">50": "70 mcg"
+            },
+            "Molybdenum, Mo": {
+               "19-50": "75 mcg",
+               ">50": "75 mcg"
+            },
+            "Chromium, Cr": {
+               "19-50": "120 mcg",
+               ">50": "120 mcg"
+            }
+         
+    },
+    "MineralsMale":{
+        
+            "Calcium, Ca": {
+               "19-50": "700 mg",
+               ">50": "1000 mg"
+            },
+            "Phosporus, P": {
+               "19-50": "700 mg",
+               ">50": "700 mg"
+            },
+            "Potassium, K": {
+               "19-50": "2000 mg",
+               ">50": "2000 mg"
+            },
+            "Sodium, Na": {
+               "19-50": "2400 mg",
+               ">50": "2400 mg"
+            },
+            "Chlorine, Cl": {
+               "19-50": "3400 mg",
+               ">50 ": "3400 mg"
+            },
+            "Magnesium, Mg": {
+               "19-50": "400 mg",
+               ">50": "420 mg"
+            },
+            "Iron, Fe": {
+               "19-50": "8 mg",
+               ">50": "8 mg"
+            },
+            "Zinc, Zn": {
+               "19-50": "15 mg",
+               ">50": "15 mg"
+            },
+            "Copper, Cu": {
+               "19-50": "2.5 mg",
+               ">50": "2.5 mg"
+            },
+            "Manganez": {
+               "19-50": " 2.3 mg",
+               ">50": "2.3 mg"
+            },
+            "Iodine, I": {
+               "19-50": "150 mcg",
+               ">50": "150 mcg"
+            },
+            "Selenium, Se": {
+               "19-50": "70 mcg",
+               ">50": "70 mcg"
+            },
+            "Molybdenum, Mo": {
+               "19-50": "75 mcg",
+               ">50": "75 nmc"
+            },
+            "Chromium, Cr": {
+               "19-50": "120 mcg",
+               ">50": "120 mcg"
+            }
+         
+    },
+    "VitaminsChildren":{
+        
+            "Vitamin A, IU": {
+               "1-3": "300 mcg",
+               "4-8": "400 mcg",
+               "9-14": "600 mcg",
+               "14-18": "900 mcg"
+            },
+            "Vitamin B-12": {
+               "1-3": "0.9 mcg",
+               "4-8": "1.2 mcg",
+               "9-14": "2.4 mcg",
+               "14-18": "2.4 mcg"
+            },
+            "Vitamin E": {
+               "1-3": "6 mg",
+               "4-8": "7 mg",
+               "9-14": "15 mg",
+               "14-18": "15 mg"
+            },
+            "Vitamin C, total ascorbic acid": {
+               "1-3": "15 mg",
+               "4-8": " 25 mg",
+               "9-14": "60 mg",
+               "14-18": "75 mg"
+            },
+            "Vitamin D": {
+               "1-3": "15 mcg",
+               "4-8": "15 mcg",
+               "9-14": "15 mcg",
+               "14-18": "15 mcg"
+            },
+            "Vitamin K": {
+               "1-3": "80 mcg",
+               "4-8": "80 mcg",
+               "9-14": "80 mcg",
+               "14-18": "85 mcg"
+            }
+         
+    },
+    "VitaminsFemale":{
+        
+            "Vitamin A, IU": {
+               "19-30": "700 mcg",
+               "31-50": "700 mcg",
+               "51-70": "700 mcg",
+               ">70": "700 mcg",
+               "Hamilelik Donemi": "750-770 mcg",
+               "Emzirme Donemi": "1200-1300 mcg"
+            },
+            "Vitamin B-12": {
+               "19-30": "2.4 mcg",
+               "31-50": "2.4 mcg",
+               "51-70": "2.4 mcg",
+               ">70": "2.4 mcg",
+               "Hamilelik Donemi": "2.6 mcg",
+               "Emzirme Donemi": "2.8 mcg"
+            },
+            "Vitamin E": {
+               "19-30": "15 mg",
+               "31-50": "15 mg",
+               "51-70": "15 mg",
+               ">70": "15 mg",
+               "Hamilelik Donemi": "15 mg",
+               "Emzirme Donemi": "15 mg"
+            },
+            "Vitamin C, total ascorbic acid": {
+               "19-30": "75 mg",
+               "31-50": "75 mg",
+               "51-70": "60 mg",
+               ">70": "75 mg",
+               "Hamilelik Donemi": "85 mg",
+               "Emzirme Donemi": "115-120 mg"
+            },
+            "Vitamin D": {
+               "19-30": "15 mcg",
+               "31-50": "15 mcg",
+               "51-70": "15 mcg",
+               ">70": "20 mcg",
+               "Hamilelik Donemi": "15 mcg",
+               "Emzirme Donemi": "19 mcg"
+            },
+            "Vitamin K": {
+               "19-30": "90 mcg",
+               "31-50": "90 mcg",
+               "51-70": "90 mcg",
+               ">70": "90 mcg",
+               "Hamilelik Donemi": "75-90 mcg",
+               "Emzirme Donemi": "75-90 mcg"
+            }
+         
+    },
+    "VitaminsMale":{
+        
+            "Vitamin A, IU": {
+               "19-70": "900 mcg",
+               ">71": "900 mcg"
+            },
+            "Thiamin": {
+               "19-70": "1.2 mg",
+               ">71": "1.2 mg"
+            },
+            "Riboflavin": {
+               "19-70": "1.3 mg",
+               ">71": "1.3 mg"
+            },
+            "Niacin": {
+               "19-70": "16 mg",
+               ">71": "16 mg"
+            },
+            "Vitamin B6": {
+               "19-70": "1.7 mg",
+               ">71": "1.7 mg"
+            },
+            "Vitamin B-12": {
+               "19-70": "2.4 mcg",
+               ">71": "2.4 mcg"
+            },
+            "Vitamin C, total ascorbic acid": {
+               "19-70": "90 mg",
+               ">71": "90 mg"
+            },
+            "Vitamin D": {
+               "19-70": "635 mcg",
+               ">71": "850 mcg"
+            },
+            "Vitamin E": {
+               "19-70": "15 mg",
+               ">71": "15 mg"
+            },
+            "Vitamin K": {
+               "19-70": "120 mcg",
+               ">71": "120 mcg"
+            }
+         
+    }
+ }
